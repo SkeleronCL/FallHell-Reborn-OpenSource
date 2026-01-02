@@ -1,0 +1,260 @@
+Items: {
+	Blood_Soul: {
+		Tooltip: ""
+		DisplayName: Blood Soul
+	}
+
+	BloodSoul: {
+		DisplayName: Blood Soul
+		Tooltip: ""
+	}
+
+	WoodEngineItem: {
+		DisplayName: Wood Engine Item
+		Tooltip: ""
+	}
+
+	PBloodyCoin: {
+		Tooltip: ""
+		DisplayName: P Bloody Coin
+	}
+
+	PBloodSoul: {
+		Tooltip: ""
+		DisplayName: P Blood Soul
+	}
+
+	PBloodyBar: {
+		DisplayName: P Bloody Bar
+		Tooltip: ""
+	}
+
+	PRottenSilverBar: {
+		DisplayName: P Rotten Silver Bar
+		Tooltip: ""
+	}
+
+	PRottenTungstenBar: {
+		DisplayName: P Rotten Tungsten Bar
+		Tooltip: ""
+	}
+
+	BloodyCoin: {
+		DisplayName: Bloody Coin
+		Tooltip: Trash :|
+	}
+
+	AliveSteelBar: {
+		DisplayName: Alive Steel Bar
+		Tooltip: ""
+	}
+
+	AliveTungstenBar: {
+		DisplayName: Alive Tungsten Bar
+		Tooltip: ""
+	}
+
+	BloodyBar: {
+		DisplayName: Bloody Bar
+		Tooltip: ""
+	}
+
+	RottenSteelBar: {
+		DisplayName: Rotten Steel Bar
+		Tooltip: ""
+	}
+
+	RottenTungstenBar: {
+		DisplayName: Rotten Tungsten Bar
+		Tooltip: ""
+	}
+
+	MoltenBar: {
+		Tooltip: ""
+		DisplayName: Molten Bar
+	}
+
+	BloodyNugget: {
+		Tooltip: ""
+		DisplayName: Bloody Nugget
+	}
+
+	BloodyGel: {
+		DisplayName: Bloody Gel
+		Tooltip: ""
+	}
+
+	AliveHelmet: {
+		DisplayName: Alive Helmet
+		Tooltip: W.I.P
+	}
+
+	AliveBreastplate: {
+		DisplayName: Alive Breastplate
+		Tooltip: W.I.P
+	}
+
+	AliveLeggings: {
+		DisplayName: Alive Leggings
+		Tooltip: W.I.P
+	}
+
+	RottenBreastplate: {
+		DisplayName: Rotten Breastplate
+		Tooltip: W.I.P
+	}
+
+	RottenHelmet: {
+		DisplayName: Rotten Helmet
+		Tooltip: W.I.P
+	}
+
+	RottenLeggings: {
+		DisplayName: Rotten Leggings
+		Tooltip: W.I.P
+	}
+
+	AliveSilverBreastplate: {
+		DisplayName: Alive Silver Breastplate
+		Tooltip: W.I.P
+	}
+
+	AliveSilverHelmet: {
+		DisplayName: Alive Silver Helmet
+		Tooltip: W.I.P
+	}
+
+	AliveSilverLeggings: {
+		DisplayName: Alive Silver Leggings
+		Tooltip: W.I.P
+	}
+
+	RottenSilverBreastplate: {
+		DisplayName: Rotten Silver Breastplate
+		Tooltip: W.I.P
+	}
+
+	RottenSilverHelmet: {
+		DisplayName: Rotten Silver Helmet
+		Tooltip: W.I.P
+	}
+
+	RottenSilverLeggings: {
+		DisplayName: Rotten Silver Leggings
+		Tooltip: W.I.P
+	}
+
+	MoltenChainsaw: {
+		DisplayName: Molten Chainsaw
+		Tooltip: ""
+	}
+
+	MoltenDrill: {
+		DisplayName: Molten Drill
+		Tooltip: ""
+	}
+
+	BoneRod: {
+		DisplayName: Bone Rod
+		Tooltip: ""
+	}
+
+	UnfaithfulArrow: {
+		Tooltip: ""
+		DisplayName: Unfaithful Arrow
+	}
+
+	SkullBow: {
+		Tooltip: ""
+		DisplayName: Skull Bow
+	}
+
+	Quartz: {
+		Tooltip: ""
+		DisplayName: Quartz
+	}
+
+	PinkDiamond: {
+		Tooltip: ""
+		DisplayName: Pink Diamond
+	}
+
+	LavaGem: {
+		Tooltip: ""
+		DisplayName: Lava Gem
+	}
+
+	BloodCrossbow: {
+		DisplayName: Blood Crossbow
+		Tooltip: ""
+	}
+
+	MoltenCrowbar: {
+		Tooltip: ""
+		DisplayName: Molten Crowbar
+	}
+
+	BoneWarrior: {
+		Tooltip: ""
+		DisplayName: Bone Warrior
+	}
+
+	BloodyBone: {
+		Tooltip: ""
+		DisplayName: Bloody Bone
+	}
+
+	BloodiestGem: {
+		DisplayName: Bloodiest Gem
+		Tooltip: ""
+	}
+
+	MoltenHammer: {
+		Tooltip: ""
+		DisplayName: Molten Hammer
+	}
+
+	MoltenAxe: {
+		Tooltip: ""
+		DisplayName: Molten Axe
+	}
+
+	JarwithBloodyGel: {
+		Tooltip: ""
+		DisplayName: Jarwith Bloody Gel
+	}
+
+	JarwithPureGel: {
+		Tooltip: ""
+		DisplayName: Jarwith Pure Gel
+	}
+}
+
+Projectiles: {
+	UnfaithfulArrowP.DisplayName: Unfaithful Arrow P
+	BoneWarriorP.DisplayName: Bone Warrior P
+	MoltenDrillP.DisplayName: Molten Drill P
+	MoltenChainsawP.DisplayName: Molten Chainsaw P
+	BloodyGelP.DisplayName: Bloody Gel P
+	PureGelP.DisplayName: Pure Gel P
+}
+
+NPCs: {
+	BloodSlime.DisplayName: Blood Slime
+	AliveBones.DisplayName: Alive Bones
+}
+
+//BloodSoul: Mods.FHR.DropCondition.BloodSoul
+DropCondition.BloodMoonDrop: Mods.FHR.DropCondition.BloodMoonDrop
+
+Buffs: {
+	BloodyGelBuff: {
+		Description: Mods.FHR.Buffs.BloodyGelBuff.Description
+		DisplayName: Bloody Gel Buff
+	}
+
+	PureGelBuff: {
+		Description: Mods.FHR.Buffs.PureGelBuff.Description
+		DisplayName: Pure Gel Buff
+	}
+}
