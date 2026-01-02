@@ -1,4 +1,5 @@
-displayName = SC
+displayName = FallHell: Reborn
 author = Skeleron
 version = 0.0.17.26
 hideCode = true
+
