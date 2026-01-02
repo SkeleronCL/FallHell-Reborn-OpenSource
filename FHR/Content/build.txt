@@ -1,4 +1,0 @@
-displayName = SC
-author = Skeleron
-version = 0.0.17.26
-hideCode = true
