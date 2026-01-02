@@ -1,0 +1,11 @@
+using Terraria;
+using Terraria.ID;
+using Terraria.ObjectData;
+using Terraria.ModLoader;
+using Terraria.DataStructures;
+using Microsoft.Xna.Framework;
+using Steamworks;
+using FHR.Content.Items;
+using FHR.Content.Items.Armor;
+using FHR.Content.Items.Tools;
+using FHR.Content.Items.Placemble;
